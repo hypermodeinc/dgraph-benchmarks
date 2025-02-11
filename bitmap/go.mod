@@ -1,4 +1,4 @@
-module github.com/dgraph-io/benchmarks/bitmap
+module github.com/hypermodeinc/dgraph-benchmarks/bitmap
 
 go 1.15
 

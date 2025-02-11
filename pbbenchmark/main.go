@@ -18,8 +18,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dgraph-io/dgraph/query/graph"
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/query/graph"
+	"github.com/hypermodeinc/dgraph/x"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

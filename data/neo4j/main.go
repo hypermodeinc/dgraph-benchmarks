@@ -30,10 +30,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dgraph-io/dgraph/query/graph"
-	"github.com/dgraph-io/dgraph/rdf"
-	"github.com/dgraph-io/dgraph/types"
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/query/graph"
+	"github.com/hypermodeinc/dgraph/rdf"
+	"github.com/hypermodeinc/dgraph/types"
+	"github.com/hypermodeinc/dgraph/x"
 	bolt "github.com/johnnadratowski/golang-neo4j-bolt-driver"
 )
 

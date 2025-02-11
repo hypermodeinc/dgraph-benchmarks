@@ -13,9 +13,9 @@ import (
 	"sort"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/dgraph-io/dgraph/query/graph"
-	"github.com/dgraph-io/dgraph/rdf"
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/query/graph"
+	"github.com/hypermodeinc/dgraph/rdf"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 var (

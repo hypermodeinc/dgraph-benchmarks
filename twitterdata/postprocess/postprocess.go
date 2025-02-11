@@ -17,8 +17,8 @@ import (
 	"github.com/dgraph-io/badger"
 	bopt "github.com/dgraph-io/badger/options"
 	"github.com/dgraph-io/badger/y"
-	"github.com/dgraph-io/dgraph/x"
-	"github.com/dgraph-io/dgraph/xidmap"
+	"github.com/hypermodeinc/dgraph/x"
+	"github.com/hypermodeinc/dgraph/xidmap"
 )
 
 const (

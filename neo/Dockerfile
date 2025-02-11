@@ -25,9 +25,9 @@ RUN cd /installs && \
 	cd /installs/git-lfs-1.1.0 && ./install.sh
 
 RUN echo v0.1
-RUN mkdir -p /go/src/github.com/dgraph-io && \
-  cd /go/src/github.com/dgraph-io && git clone https://github.com/dgraph-io/benchmarks
-RUN cd /go/src/github.com/dgraph-io/benchmarks/neo && go get -v .
+RUN mkdir -p /go/src/github.com/hypermodeinc && \
+  cd /go/src/github.com/hypermodeinc && git clone https://github.com/hypermodeinc/dgraph-benchmarks
+RUN cd /go/src/github.com/hypermodeinc/dgraph-benchmarks/neo && go get -v .
 
 COPY neo4j.tar.gz /installs/neo4j.tar.gz
 RUN cd /installs && tar -xzvf neo4j.tar.gz

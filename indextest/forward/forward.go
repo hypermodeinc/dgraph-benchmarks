@@ -13,7 +13,7 @@ import (
 	"golang.org/x/text/transform"
 	"golang.org/x/text/unicode/norm"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 const (

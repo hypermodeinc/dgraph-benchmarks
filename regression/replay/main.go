@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 var (

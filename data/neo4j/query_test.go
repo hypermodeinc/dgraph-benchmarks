@@ -12,8 +12,8 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/dgraph-io/dgraph/client"
-	"github.com/dgraph-io/dgraph/query/graph"
+	"github.com/hypermodeinc/dgraph/client"
+	"github.com/hypermodeinc/dgraph/query/graph"
 	bolt "github.com/johnnadratowski/golang-neo4j-bolt-driver"
 )
 

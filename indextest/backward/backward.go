@@ -8,7 +8,7 @@ import (
 
 	farm "github.com/dgryski/go-farm"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 const (

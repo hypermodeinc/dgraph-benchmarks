@@ -10,9 +10,9 @@ import (
 	"os"
 	"sync"
 
-	"github.com/dgraph-io/dgraph/protos"
-	"github.com/dgraph-io/dgraph/rdf"
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/protos"
+	"github.com/hypermodeinc/dgraph/rdf"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 var (

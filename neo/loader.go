@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/dgraph-io/dgraph/rdf"
+	"github.com/hypermodeinc/dgraph/rdf"
 	"github.com/dgryski/go-farm"
 	"github.com/jmcvetta/neoism"
 )

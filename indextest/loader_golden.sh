@@ -9,7 +9,7 @@ mkdir -p $DIR
 pushd $DIR &> /dev/null
 
 if [ ! -f "goldendata.gz" ]; then
-  wget https://github.com/dgraph-io/benchmarks/raw/master/data/goldendata.gz
+  wget https://github.com/hypermodeinc/dgraph-benchmarks/raw/main/data/goldendata.gz
 fi
 
 if [ ! -f "goldendata" ]; then

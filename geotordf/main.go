@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 	farm "github.com/dgryski/go-farm"
 	"github.com/twpayne/go-geom/encoding/geojson"
 )

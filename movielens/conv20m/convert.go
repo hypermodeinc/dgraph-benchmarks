@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 var (

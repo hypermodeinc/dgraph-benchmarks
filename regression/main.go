@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 var file = flag.String("file", "", "File to extract queries from")

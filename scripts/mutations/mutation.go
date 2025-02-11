@@ -2,7 +2,7 @@
 // mutations using the HTTP interface.
 //
 // You can run the script like
-// go build . && ./mutations --rdf $GOPATH/src/github.com/dgraph-io/benchmarks/data/names.gz --concurrent 100
+// go build . && ./mutations --rdf $GOPATH/src/github.com/hypermodeinc/dgraph-benchmarks/data/names.gz --concurrent 100
 package main
 
 import (
@@ -22,7 +22,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 var (
