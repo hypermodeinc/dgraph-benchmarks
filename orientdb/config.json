@@ -3,7 +3,7 @@
     "log": "debug"
   },
   "source" : {
-    "file": { "path": "/home/pawan/go/src/github.com/dgraph-io/dgraph/dgraph/cmd/transform/output.json" }
+    "file": { "path": "/home/pawan/go/src/github.com/hypermodeinc/dgraph/dgraph/cmd/transform/output.json" }
   },
   "extractor" : {
     "json": {}
