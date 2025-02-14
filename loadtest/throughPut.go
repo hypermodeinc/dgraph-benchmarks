@@ -17,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dgraph-io/dgraph/x"
+	"github.com/hypermodeinc/dgraph/x"
 )
 
 var (
