@@ -13,7 +13,7 @@ import (
 
 	"github.com/dgryski/go-farm"
 
-	"github.com/dgraph-io/dgraph/chunker"
+	"github.com/hypermodeinc/dgraph/chunker"
 	"github.com/hypermodeinc/dgraph/x"
 
 	"github.com/dgraph-io/dgo/protos/api"
